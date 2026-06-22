@@ -1,11 +1,5 @@
 # Cyber AI Enhanced Intrusion Detection System 
 
-![Banner](https://img.shields.io/badge/Cyber%20AI%20IDS-Powered%20by%20ML-brightgreen?style=for-the-badge)
-
-![Banner](https://github.com/MilakeSuraj/Tic_Tac_Toe_Game/blob/main/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner%20(1).png?raw=true)
-
-
-
 # Project Overview
 
 ***A full-stack web application for detecting web attacks using AI/ML, featuring a modern cyber-themed UI and real-time prediction
