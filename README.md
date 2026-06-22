@@ -1,4 +1,4 @@
-# Cyber AI Enhanced Intrusion Detection System
+# Cyber AI Enhanced Intrusion Detection System 
 
 ![Banner](https://img.shields.io/badge/Cyber%20AI%20IDS-Powered%20by%20ML-brightgreen?style=for-the-badge)
 
@@ -8,19 +8,7 @@
 
 # Project Overview
 
-***A full-stack web application for detecting web attacks using AI/ML, featuring a modern cyber-themed UI and real-time prediction.***
-
-
-   
-## Video
-
-![Demo Video 1](https://raw.githubusercontent.com/MilakeSuraj/Cyber-Security-AI-Enhanced-Intrusion-Detection-System/main/Screenshots/mainpage.gif)
-
-
-
-## Prediction Screen
-
-![Prediction Demo](https://raw.githubusercontent.com/MilakeSuraj/Cyber-Security-AI-Enhanced-Intrusion-Detection-System/main/Screenshots/prediction.gif)
+***A full-stack web application for detecting web attacks using AI/ML, featuring a modern cyber-themed UI and real-time prediction
 
 
 ## Features
@@ -32,11 +20,6 @@
 - **Prediction Modal:** Displays prediction and input summary in a stylish popup.
 
 
-
-
-
----
-
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript (Vanilla), Jinja2 (Flask templating)
@@ -44,8 +27,6 @@
 - **Machine Learning:** scikit-learn, imbalanced-learn, joblib
 - **Model:** Random Forest Classifier (trained on 4 selected features)
 - **Other:** Bootstrap (optional), Pandas, NumPy
-
-
 
 ## Project Structure
 
@@ -71,3 +52,4 @@ CYBER_PROJECT/
 
 
 *For more details, see the code in [`CYBER_PROJECT`](./CYBER_PROJECT)*
+
